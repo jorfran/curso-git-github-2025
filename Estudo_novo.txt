@@ -1,0 +1,3 @@
+ nova página para estudo do bash e git
+ aperfeiçoar os fundamentos ensinados na aula 2
+ aprendendo novos conceitos
