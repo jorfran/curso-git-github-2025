@@ -4,3 +4,10 @@ Esse arquivo contém informações adicionais para git
 
 # Comandos mais genéricos
 - Comandos mais estranhos
+
+# Mais comandos !!!
+  git add .
+  git commit -m "nome"
+  git checkout main
+  git checkout secundaria
+  git log  sair Q
