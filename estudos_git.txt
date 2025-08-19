@@ -13,4 +13,7 @@ Para adicionar as alterações no projeto devo voltar para branch main
 git checkout main
 git merge estudos_git
 
+Curso ministrado por Téo My Why Introdução ao GitHub  
+
+
 Antes sair Salvar
