@@ -3,3 +3,4 @@
 ---------------------------------------
 - Aperfeiçoar o estudo do Git e do GitHub .
 - Melhora no aprendizado .
+- Mais facilidades para aprender.
