@@ -19,6 +19,6 @@ Conceitos do Git : Usando o gitbash
 			  git status 
 			  git add .
 			  git commit -m "inserir texto"
-			  git push origin revisao
+			  git push origin revisao.
 5 
  				
